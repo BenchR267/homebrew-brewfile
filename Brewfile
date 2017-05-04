@@ -1,0 +1,136 @@
+tap 'caskroom/cask'
+tap 'caskroom/fonts'
+tap 'homebrew/bundle'
+tap 'homebrew/completions'
+tap 'homebrew/core'
+tap 'homebrew/science'
+tap 'homebrew/services'
+tap 'homebrew/versions'
+tap 'jiritrecak/laurine'
+
+brew 'antigen'
+brew 'openssl'
+brew 'asciinema'
+brew 'bash'
+brew 'bash-completion@2'
+brew 'git'
+brew 'boot2docker'
+brew 'carthage'
+brew 'exercism'
+brew 'ffmpeg'
+brew 'git-flow'
+brew 'gnupg'
+brew 'gnupg@1.4'
+brew 'go'
+brew 'heroku'
+brew 'htop-osx'
+brew 'httpie'
+brew 'hugo'
+brew 'jq'
+brew 'llvm'
+brew 'loc'
+brew 'mas'
+brew 'mercurial'
+brew 'mitmproxy'
+brew 'mongodb'
+brew 'mysql'
+brew 'numpy'
+brew 'nvm'
+brew 'postgresql'
+brew 'rust'
+brew 'scala'
+brew 'swiftlint'
+brew 'thefuck'
+brew 'tldr'
+brew 'tmux'
+brew 'tree'
+brew 'vim'
+brew 'watchexec'
+brew 'watchman'
+brew 'wget'
+brew 'yarn'
+brew 'zsh'
+brew 'zsh-syntax-highlighting'
+brew 'homebrew/science/opencv3'
+brew 'homebrew/science/r'
+brew 'homebrew/science/vtk'
+brew 'jiritrecak/laurine/laurine'
+
+cask 'java'
+cask 'xquartz'
+cask 'android-studio'
+cask 'bartender'
+cask 'bitbar'
+cask 'calibre'
+cask 'charles'
+cask 'daisydisk'
+cask 'dash'
+cask 'docker'
+cask 'dotnet'
+cask 'dotnet-sdk'
+cask 'eclipse-ide'
+cask 'etcher'
+cask 'firefox'
+cask 'gitter'
+cask 'gitup'
+cask 'gpgtools'
+cask 'icons8'
+cask 'istat-menus'
+cask 'jdownloader'
+cask 'keybase'
+cask 'mactex'
+cask 'messenger'
+cask 'ngrok'
+cask 'obs'
+cask 'paragon-ntfs'
+cask 'paw'
+cask 'qlmarkdown'
+cask 'react-native-debugger'
+cask 'rescuetime'
+cask 'robomongo'
+cask 'rstudio'
+cask 'screenflow'
+cask 'simpholders'
+cask 'skype'
+cask 'slack'
+cask 'softorino-youtube-converter'
+cask 'sourcetree'
+cask 'spotify'
+cask 'sqlpro-studio'
+cask 'sublime-text'
+cask 'teamspeak-client'
+cask 'teamviewer'
+cask 'the-unarchiver'
+cask 'tower'
+cask 'typora'
+cask 'vagrant'
+cask 'virtualbox'
+cask 'virtualbox-extension-pack'
+cask 'visual-studio-code'
+cask 'vlc'
+cask 'whatsapp'
+cask 'wireshark'
+
+mas 'Apple Configurator 2', id: 1037126344
+mas 'AutoMute', id: 1118136179
+mas 'Deckset', id: 847496013
+mas 'Deliveries', id: 924726344
+mas 'GarageBand', id: 682658836
+mas 'GIF Brewery 3', id: 1081413713
+mas 'Haskell', id: 841285201
+mas 'HyperDock', id: 449830122
+mas 'iMovie', id: 408981434
+mas 'Keynote', id: 409183694
+mas 'Notability', id: 736189492
+mas 'Numbers', id: 409203825
+mas 'Pages', id: 409201541
+mas 'Paws for Trello', id: 1124077199
+mas 'Pixelmator', id: 407963104
+mas 'RAWPower', id: 1157116444
+mas 'Reeder', id: 880001334
+mas 'Texpad', id: 458866234
+mas 'Theine', id: 955848755
+mas 'Tweetbot', id: 557168941
+mas 'Wunderlist', id: 410628904
+mas 'Xcode', id: 497799835
+mas 'Yoink', id: 457622435
