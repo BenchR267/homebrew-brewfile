@@ -91,15 +91,10 @@ mas 'Apple Configurator 2', id: 1037126344
 mas 'AutoMute', id: 1118136179
 mas 'Deckset', id: 847496013
 mas 'Deliveries', id: 924726344
-mas 'GarageBand', id: 682658836
 mas 'GIF Brewery 3', id: 1081413713
 mas 'Haskell', id: 841285201
 mas 'HyperDock', id: 449830122
-mas 'iMovie', id: 408981434
-mas 'Keynote', id: 409183694
 mas 'Notability', id: 736189492
-mas 'Numbers', id: 409203825
-mas 'Pages', id: 409201541
 mas 'Pixelmator', id: 407963104
 mas 'Reeder', id: 880001334
 mas 'Texpad', id: 458866234
