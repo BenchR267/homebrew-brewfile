@@ -92,6 +92,7 @@ cask 'visual-studio-code'
 cask 'vlc'
 cask 'whatsapp'
 cask 'wireshark'
+cask 'sketch'
 
 mas 'Apple Configurator 2', id: 1037126344
 mas 'AutoMute', id: 1118136179
