@@ -54,6 +54,7 @@ brew 'zsh-syntax-highlighting'
 brew 'homebrew/science/opencv3'
 brew 'homebrew/science/r'
 brew 'homebrew/science/vtk'
+brew 'neofetch'
 
 cask 'xquartz'
 cask 'bartender'
